@@ -1,0 +1,14 @@
+#box {
+  width: 150px;
+  height: 150px;
+  background-color: lightgray;
+  border: 2px solid black;
+  text-align: center;
+  line-height: 150px;
+}
+
+
+#box.active {
+  background-color: teal;
+  color: white;
+}
