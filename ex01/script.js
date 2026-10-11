@@ -27,6 +27,7 @@ function checkAccess(age, hasTicket) {
 console.log(calculateGrade(100));   // A
 console.log(calculateGrade(90));    // A
 console.log(calculateGrade(89));    // B
+console.log(calculateGrade(65));    //D
 console.log(calculateGrade(0));     // F
 console.log(calculateGrade(-5));    // Invalid
 console.log(calculateGrade(101));   // Invalid
